@@ -6,7 +6,8 @@ Este repositorio contiene el material de la materia Exploración y Curación de 
 
 ### Equipo Docente
 
-- ???
+- Ariel Mauricio Wolfmann
+- José Ignacio Robledo
 
 ### Clases
 
