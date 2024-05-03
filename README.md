@@ -13,7 +13,8 @@ Este repositorio contiene el material de la materia Exploración y Curación de 
 
 | Clase | Filmina | Notebook |
 |-------|---------|----------|
-| . | . | . |
+| Introducción | [Intro + SQL](/clases/filminas/DiploDatos%2024%20-%20EyCD%20-%20Clase%201%20y%202.pdf) | [Aplicación](/clases/notebooks/01_Exploracion.ipynb) |
+| SQL | [Intro + SQL](/clases/filminas/DiploDatos%2024%20-%20EyCD%20-%20Clase%201%20y%202.pdf) | [Aplicación](/clases/notebooks/02_SQL.ipynb) |
 
 ### Trabajos Prácticos
 
