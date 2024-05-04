@@ -13,9 +13,10 @@ Este repositorio contiene el material de la materia Exploración y Curación de 
 
 | Clase | Filmina | Notebook |
 |-------|---------|----------|
-| Introducción | [Intro + SQL + Pandas](/clases/filminas/DiploDatos%2024%20-%20EyCD%20-%20Clase%201%20y%202.pdf) | [Aplicación](/clases/notebooks/01_Exploracion.ipynb) |
-| SQL | [Intro + SQL + Pandas](/clases/filminas/DiploDatos%2024%20-%20EyCD%20-%20Clase%201%20y%202.pdf) | [Aplicación](/clases/notebooks/02_SQL.ipynb) |
-| Join/Merge y exploración en Pandas | [Intro + SQL + Pandas](/clases/filminas/DiploDatos%2024%20-%20EyCD%20-%20Clase%201%20y%202.pdf) | [Aplicación](/clases/notebooks/02_1_Combinación_de_datasets.ipynb) |
+| Introducción | [Intro + SQL + Pandas + ETL](/clases/filminas/DiploDatos%2024%20-%20EyCD%20-%20Clase%201%20y%202.pdf) | [Aplicación](/clases/notebooks/01_Exploracion.ipynb) |
+| SQL | [Intro + SQL + Pandas + ETL](/clases/filminas/DiploDatos%2024%20-%20EyCD%20-%20Clase%201%20y%202.pdf) | [Aplicación](/clases/notebooks/02_SQL.ipynb) |
+| Join/Merge y exploración en Pandas | [Intro + SQL + Pandas + ETL](/clases/filminas/DiploDatos%2024%20-%20EyCD%20-%20Clase%201%20y%202.pdf) | [Aplicación](/clases/notebooks/02_1_Combinación_de_datasets.ipynb) |
+| ETL | [Intro + SQL + Pandas + ETL](/clases/filminas/DiploDatos%2024%20-%20EyCD%20-%20Clase%201%20y%202.pdf) | [Aplicación](/clases/notebooks/03_02_ETLs_DAGs.ipynb) |
 
 ### Trabajos Prácticos
 
