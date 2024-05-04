@@ -22,4 +22,4 @@ Este repositorio contiene el material de la materia Exploración y Curación de 
 
 | TP | Enunciado | Desarrollo Personal | Entrega Grupal |
 |----|-----------|-------|---------|
-| . | . | . | . |
+| 1 | [SQL + Pandas + ETL](/evaluación/entregable1/original.ipynb) | . | . |
