@@ -17,6 +17,7 @@ Este repositorio contiene el material de la materia Exploración y Curación de 
 | SQL | [Intro + SQL + Pandas + ETL](/clases/filminas/DiploDatos%2024%20-%20EyCD%20-%20Clase%201%20y%202.pdf) | [Aplicación](/clases/notebooks/02_SQL.ipynb) |
 | Join/Merge y exploración en Pandas | [Intro + SQL + Pandas + ETL](/clases/filminas/DiploDatos%2024%20-%20EyCD%20-%20Clase%201%20y%202.pdf) | [Aplicación](/clases/notebooks/02_1_Combinación_de_datasets.ipynb) |
 | ETL | [Intro + SQL + Pandas + ETL](/clases/filminas/DiploDatos%2024%20-%20EyCD%20-%20Clase%201%20y%202.pdf) | [Aplicación](/clases/notebooks/03_02_ETLs_DAGs.ipynb) |
+| Datos Ruidosos: Datos Erróneos y Faltantes | [Datos Ruidosos](/clases/filminas/DiploDatos24%20-%20EyCD%20-%20Clase%203.pdf) | [Aplicación](./clases/notebooks/03_Datos_faltantes.ipynb) y [Ejercicios](./clases/notebooks/03_Datos_faltantes_Ejercicios.ipynb) |
 
 ### Trabajos Prácticos
 
