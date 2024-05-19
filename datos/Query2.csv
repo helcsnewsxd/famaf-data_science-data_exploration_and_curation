@@ -1,0 +1,602 @@
+Suburb,CouncilArea,Count
+Reservoir,Darebin,323
+Richmond,Yarra,251
+Bentleigh East,Glen Eira,234
+Preston,Darebin,228
+Brunswick,Moreland,208
+Essendon,Moonee Valley,208
+Hawthorn,Boroondara,186
+Brighton,Bayside,176
+Coburg,Moreland,176
+Northcote,Darebin,175
+Pascoe Vale,Moreland,161
+St Kilda,Port Phillip,160
+Kew,Boroondara,157
+South Yarra,Stonnington,157
+Yarraville,Maribyrnong,154
+Balwyn North,Boroondara,151
+Glenroy,Moreland,144
+Moonee Ponds,Moonee Valley,139
+Carnegie,Glen Eira,138
+Thornbury,Darebin,132
+Bentleigh,Glen Eira,131
+Newport,Hobsons Bay,129
+Footscray,Maribyrnong,126
+Ascot Vale,Moonee Valley,125
+Elwood,Port Phillip,125
+Brighton East,Bayside,124
+Camberwell,Boroondara,124
+Glen Iris,Boroondara,117
+Port Melbourne,Port Phillip,117
+Hampton,Bayside,115
+Hawthorn East,Boroondara,115
+Prahran,Stonnington,113
+Kensington,Melbourne,111
+Malvern East,Stonnington,111
+Sunshine,Brimbank,109
+Doncaster,Manningham,108
+Brunswick West,Moreland,102
+Balwyn,Boroondara,101
+Keilor East,Moonee Valley,100
+Williamstown,Hobsons Bay,100
+Toorak,Stonnington,99
+Ivanhoe,Banyule,97
+Fawkner,Moreland,96
+West Footscray,Maribyrnong,96
+Maribyrnong,Maribyrnong,92
+Maidstone,Maribyrnong,90
+Armadale,Stonnington,86
+Fitzroy North,Yarra,84
+Templestowe Lower,Manningham,84
+Sunshine West,Brimbank,81
+Brunswick East,Moreland,80
+Murrumbeena,Glen Eira,80
+Heidelberg Heights,Banyule,76
+North Melbourne,Melbourne,76
+South Melbourne,Port Phillip,76
+Heidelberg West,Banyule,74
+Ormond,Glen Eira,74
+Avondale Heights,Moonee Valley,73
+Niddrie,Moonee Valley,73
+Altona,Hobsons Bay,69
+Bulleen,Manningham,65
+Albert Park,Port Phillip,64
+Surrey Hills,Boroondara,64
+Collingwood,Yarra,62
+Malvern,Stonnington,62
+Airport West,Moonee Valley,61
+Burwood,Whitehorse,61
+Hadfield,Moreland,61
+Moorabbin,Kingston,60
+Seddon,Maribyrnong,60
+Sunshine North,Brimbank,60
+Elsternwick,Glen Eira,59
+Oak Park,Moreland,58
+Strathmore,Moonee Valley,58
+Abbotsford,Yarra,55
+Glen Iris,Stonnington,55
+Box Hill,Whitehorse,54
+Flemington,Moonee Valley,54
+Rosanna,Banyule,54
+Ashburton,Boroondara,53
+Coburg North,Moreland,53
+Fitzroy,Yarra,53
+Clifton Hill,Yarra,52
+Canterbury,Boroondara,51
+Heidelberg,Banyule,50
+Surrey Hills,Whitehorse,50
+Altona North,Hobsons Bay,49
+Watsonia,Banyule,49
+Carlton,Melbourne,48
+Melbourne,Melbourne,46
+Ashwood,Monash,45
+Caulfield South,Glen Eira,45
+Braybrook,Maribyrnong,44
+Carlton North,Yarra,44
+Mount Waverley,Monash,44
+Oakleigh,Monash,43
+Aberfeldie,Moonee Valley,40
+South Yarra,Melbourne,40
+Southbank,Melbourne,40
+Albion,Brimbank,38
+Epping,Whittlesea,38
+Kew East,Boroondara,38
+Viewbank,Banyule,38
+Werribee,Wyndham,37
+Reservoir,,36
+Caulfield North,Glen Eira,35
+Fairfield,Darebin,35
+Hughesdale,Monash,35
+Windsor,Stonnington,35
+Chadstone,Monash,34
+Oakleigh South,Monash,34
+Mill Park,Whittlesea,33
+Craigieburn,Hume,31
+Middle Park,Port Phillip,31
+Parkville,Melbourne,31
+Kingsville,Maribyrnong,30
+Mont Albert,Whitehorse,30
+West Melbourne,Melbourne,29
+Lalor,Whittlesea,28
+Doncaster East,Manningham,27
+Spotswood,Hobsons Bay,27
+Cheltenham,Kingston,26
+Essendon West,Moonee Valley,26
+Glen Waverley,Monash,26
+Alphington,Darebin,25
+Balaclava,Port Phillip,25
+Croydon,Maroondah,25
+Cremorne,Yarra,24
+Thomastown,Whittlesea,24
+Glen Iris,,23
+Hoppers Crossing,Wyndham,23
+Ivanhoe East,Banyule,23
+Port Melbourne,Melbourne,23
+Yallambie,Banyule,23
+Eaglemont,Banyule,22
+East Melbourne,Melbourne,22
+Jacana,Hume,22
+South Kingsville,Hobsons Bay,22
+Gowanbrae,Moreland,21
+Greensborough,Banyule,21
+Keilor Park,Brimbank,21
+Sunbury,,21
+Balwyn North,,20
+Essendon North,Moonee Valley,20
+Kew,,20
+St Albans,Brimbank,20
+Windsor,Port Phillip,20
+Eltham,Nillumbik,19
+Glen Waverley,,19
+Keilor East,,19
+Mitcham,Whitehorse,19
+Hampton East,Bayside,18
+Mulgrave,Monash,18
+Nunawading,Whitehorse,18
+Oakleigh South,Kingston,18
+South Morang,Whittlesea,18
+Taylors Lakes,Brimbank,18
+Williamstown North,Hobsons Bay,18
+Broadmeadows,Hume,17
+Kealba,Brimbank,17
+Parkdale,Kingston,17
+Sandringham,Bayside,17
+Sunbury,Hume,17
+Cheltenham,,16
+Craigieburn,,16
+Dingley Village,Kingston,16
+Frankston,Frankston,16
+Glen Huntly,Glen Eira,16
+Highett,Bayside,16
+Mentone,Kingston,16
+Bellfield,Banyule,15
+Bentleigh East,,15
+Glenroy,,15
+Greenvale,Hume,15
+Hoppers Crossing,,15
+Melton South,Melton,15
+Montmorency,Banyule,15
+Mordialloc,Kingston,15
+Templestowe,Manningham,15
+Brunswick,,14
+Burwood,Monash,14
+Coburg,,14
+Doncaster East,,14
+Epping,,14
+Ferntree Gully,Knox,14
+Forest Hill,Whitehorse,14
+Hampton,,14
+Lalor,,14
+Blackburn,Whitehorse,13
+Bundoora,Banyule,13
+Dandenong North,Greater Dandenong,13
+Kingsbury,Darebin,13
+Mount Waverley,,13
+Northcote,,13
+Port Melbourne,,13
+Ringwood,Maroondah,13
+Wantirna South,Knox,13
+Werribee,,13
+Wheelers Hill,,13
+Wheelers Hill,Monash,13
+Bayswater,Knox,12
+Boronia,Knox,12
+Burwood East,Whitehorse,12
+Caulfield,Glen Eira,12
+Essendon,,12
+Gladstone Park,Hume,12
+Hillside,Melton,12
+Noble Park,Greater Dandenong,12
+Seaford,Frankston,12
+Beaumaris,Bayside,11
+Berwick,Casey,11
+Bundoora,,11
+Clayton,Monash,11
+Dandenong,Greater Dandenong,11
+Heathmont,Maroondah,11
+Keilor Downs,Brimbank,11
+Kew East,,11
+Meadow Heights,Hume,11
+Mitcham,,11
+Mulgrave,,11
+Surrey Hills,,11
+Tullamarine,Hume,11
+Westmeadows,Hume,11
+Brighton,,10
+Brighton East,,10
+Bundoora,Whittlesea,10
+Deer Park,Brimbank,10
+Greensborough,,10
+Mentone,,10
+Mill Park,,10
+Moonee Ponds,,10
+Oakleigh East,Monash,10
+Pascoe Vale,,10
+Prahran,,10
+Preston,,10
+Rowville,Knox,10
+Travancore,Moonee Valley,10
+Vermont,Whitehorse,10
+Yarraville,,10
+Armadale,,9
+Burwood,,9
+Caroline Springs,Melton,9
+Carrum,Kingston,9
+Frankston South,,9
+Keysborough,Greater Dandenong,9
+Mooroolbark,Yarra Ranges,9
+Niddrie,,9
+Ormond,,9
+Point Cook,Wyndham,9
+Richmond,,9
+Ringwood East,Maroondah,9
+Ripponlea,Port Phillip,9
+South Melbourne,,9
+Tarneit,Wyndham,9
+Wantirna South,,9
+Watsonia North,Banyule,9
+West Footscray,,9
+Bentleigh,,8
+Black Rock,Bayside,8
+Blackburn,,8
+Blackburn South,Whitehorse,8
+Brunswick East,,8
+Brunswick West,,8
+Camberwell,,8
+Carnegie,,8
+Caulfield East,Glen Eira,8
+Clayton South,,8
+Croydon,,8
+Doncaster,,8
+Donvale,Manningham,8
+Ferntree Gully,,8
+Forest Hill,,8
+Frankston,,8
+Gladstone Park,,8
+Melton,Melton,8
+Newport,,8
+Roxburgh Park,,8
+Sandringham,,8
+Sunshine North,,8
+Templestowe Lower,,8
+Vermont South,Whitehorse,8
+Alphington,Yarra,7
+Altona North,,7
+Ashburton,,7
+Beaumaris,,7
+Blackburn North,,7
+Blackburn North,Whitehorse,7
+Brooklyn,Hobsons Bay,7
+Burnley,Yarra,7
+Cairnlea,Brimbank,7
+Carrum Downs,Frankston,7
+Eltham North,Nillumbik,7
+Flemington,,7
+Frankston South,Frankston,7
+Highett,,7
+Parkdale,,7
+Ringwood,,7
+Ringwood North,Maroondah,7
+Rosanna,,7
+Roxburgh Park,Hume,7
+Taylors Hill,Melton,7
+Thornbury,,7
+Wantirna,Knox,7
+Williamstown,,7
+Airport West,,6
+Balwyn,,6
+Broadmeadows,,6
+Bulleen,,6
+Croydon North,Maroondah,6
+Eltham,,6
+Fitzroy,,6
+Fitzroy North,,6
+Footscray,,6
+Gardenvale,Glen Eira,6
+Malvern East,,6
+Meadow Heights,,6
+Mernda,Whittlesea,6
+Narre Warren,Casey,6
+Oakleigh South,,6
+Seaholme,Hobsons Bay,6
+Springvale,Greater Dandenong,6
+Wollert,Whittlesea,6
+Albert Park,,5
+Altona,,5
+Ascot Vale,,5
+Bayswater North,Maroondah,5
+Box Hill,,5
+Briar Hill,Banyule,5
+Carrum Downs,,5
+Clifton Hill,,5
+Dingley Village,,5
+Donvale,,5
+Doveton,Casey,5
+Edithvale,Kingston,5
+Elwood,,5
+Endeavour Hills,Casey,5
+Fawkner,,5
+Gisborne,Macedon Ranges,5
+Greensborough,Nillumbik,5
+Hampton East,,5
+Hawthorn,,5
+Heathmont,,5
+Hillside,,5
+Keilor,Brimbank,5
+Kensington,Moonee Valley,5
+Langwarrin,Frankston,5
+Lower Plenty,Banyule,5
+Malvern,,5
+McKinnon,Glen Eira,5
+Melton West,Melton,5
+North Melbourne,,5
+Oak Park,,5
+Scoresby,Knox,5
+South Yarra,,5
+St Albans,,5
+Strathmore,,5
+Strathmore Heights,Moonee Valley,5
+Sunshine West,,5
+Sydenham,Brimbank,5
+Thomastown,,5
+Vermont South,,5
+Wantirna,,5
+Windsor,,5
+Aberfeldie,,4
+Albanvale,Brimbank,4
+Altona Meadows,Hobsons Bay,4
+Aspendale,Kingston,4
+Black Rock,,4
+Blackburn South,,4
+Brighton East,Glen Eira,4
+Burwood East,,4
+Carlton North,,4
+Chelsea,Kingston,4
+Cheltenham,Bayside,4
+Dallas,Hume,4
+Deer Park,,4
+Delahey,Brimbank,4
+Edithvale,,4
+Eltham North,,4
+Fairfield,,4
+Fairfield,Yarra,4
+Hallam,Casey,4
+Hawthorn East,,4
+Highett,Kingston,4
+Huntingdale,Monash,4
+Keilor,,4
+Keilor Downs,,4
+Kings Park,Brimbank,4
+Kingsville,,4
+Knoxfield,Knox,4
+Kurunjang,Melton,4
+Maidstone,,4
+Maribyrnong,,4
+Melton,,4
+Moorabbin,,4
+Oakleigh,,4
+Point Cook,,4
+Princes Hill,Yarra,4
+Taylors Lakes,,4
+Templestowe,,4
+Truganina,Wyndham,4
+Vermont,,4
+Albion,,3
+Aspendale,,3
+Bayswater North,,3
+Bonbeach,,3
+Briar Hill,,3
+Campbellfield,Hume,3
+Canterbury,,3
+Carlton,,3
+Clayton South,Kingston,3
+Collingwood,,3
+Dandenong North,,3
+Derrimut,Brimbank,3
+Diamond Creek,,3
+Diamond Creek,Nillumbik,3
+Docklands,Melbourne,3
+Doreen,,3
+Doreen,Whittlesea,3
+Fitzroy North,Moreland,3
+Frankston North,Frankston,3
+Gisborne,,3
+Gowanbrae,,3
+Hampton Park,Casey,3
+Huntingdale,,3
+Jacana,,3
+Kilsyth,,3
+McKinnon,,3
+Melton South,,3
+Melton West,,3
+Mernda,,3
+Middle Park,,3
+Mont Albert,,3
+Mooroolbark,,3
+Mordialloc,,3
+Pakenham,Cardinia,3
+Ringwood East,,3
+Ringwood North,,3
+Scoresby,,3
+Seabrook,Hobsons Bay,3
+South Morang,,3
+Springvale,,3
+The Basin,Knox,3
+Viewbank,,3
+Warrandyte,Manningham,3
+Watsonia,,3
+Westmeadows,,3
+Wollert,,3
+Wyndham Vale,Wyndham,3
+Albanvale,,2
+Alphington,,2
+Altona Meadows,,2
+Ardeer,Brimbank,2
+Aspendale Gardens,,2
+Aspendale Gardens,Kingston,2
+Balaclava,,2
+Bayswater,,2
+Beaconsfield,Cardinia,2
+Berwick,,2
+Boronia,,2
+Braybrook,,2
+Bundoora,Darebin,2
+Burnside,,2
+Burnside Heights,Melton,2
+Caroline Springs,,2
+Caulfield South,,2
+Chelsea Heights,,2
+Chelsea Heights,Kingston,2
+Chirnside Park,Yarra Ranges,2
+Clarinda,,2
+Clarinda,Kingston,2
+Clayton,,2
+Coburg North,,2
+Coolaroo,,2
+Coolaroo,Hume,2
+Cranbourne,Casey,2
+Cranbourne North,Casey,2
+Croydon Hills,,2
+Croydon Hills,Maroondah,2
+Dallas,,2
+Dandenong,,2
+Deepdene,Boroondara,2
+Delahey,,2
+Derrimut,,2
+Diggers Rest,Melton,2
+Doveton,,2
+Elsternwick,,2
+Eltham North,Banyule,2
+Essendon North,,2
+Greenvale,,2
+Hampton East,Kingston,2
+Heidelberg Heights,,2
+Heidelberg West,,2
+Ivanhoe East,,2
+Kealba,,2
+Keilor East,Brimbank,2
+Keysborough,,2
+Montmorency,,2
+Murrumbeena,,2
+Notting Hill,Monash,2
+Nunawading,,2
+Seaford,,2
+Seddon,,2
+Silvan,Yarra Ranges,2
+Skye,Frankston,2
+Spotswood,,2
+Springvale South,,2
+St Helena,Banyule,2
+St Kilda,,2
+Sunshine,,2
+Tullamarine,,2
+Warrandyte,,2
+West Melbourne,,2
+Abbotsford,,1
+Ardeer,,1
+Ashwood,,1
+Attwood,,1
+Avondale Heights,,1
+Bacchus Marsh,Moorabool,1
+Beaconsfield Upper,Cardinia,1
+Bellfield,,1
+Bonbeach,Kingston,1
+Brookfield,Melton,1
+Brooklyn,,1
+Brooklyn,Brimbank,1
+Bullengarook,Macedon Ranges,1
+Burnside Heights,,1
+Campbellfield,,1
+Caulfield East,,1
+Chadstone,,1
+Chelsea,,1
+Coburg North,Darebin,1
+Cranbourne,,1
+Cremorne,,1
+Croydon North,,1
+Croydon South,Maroondah,1
+Eaglemont,,1
+Elwood,Glen Eira,1
+Emerald,Cardinia,1
+Fawkner,Hume,1
+Flemington,Melbourne,1
+Frankston North,,1
+Glen Huntly,,1
+Hadfield,,1
+Hallam,,1
+Hampton,Unavailable,1
+Hampton Park,,1
+Healesville,Yarra Ranges,1
+Heidelberg,,1
+Hillside,Brimbank,1
+Hurstbridge,,1
+Hurstbridge,Nillumbik,1
+Ivanhoe,,1
+Keilor Lodge,,1
+Keilor Lodge,Brimbank,1
+Keilor Park,,1
+Kensington,,1
+Kilsyth,Maroondah,1
+Kings Park,,1
+Kooyong,,1
+Kooyong,Stonnington,1
+Langwarrin,,1
+Monbulk,,1
+Mont Albert,Boroondara,1
+Montrose,Yarra Ranges,1
+Mount Evelyn,,1
+Mount Evelyn,Yarra Ranges,1
+Narre Warren,,1
+New Gisborne,,1
+North Warrandyte,,1
+North Warrandyte,Nillumbik,1
+Notting Hill,,1
+Oakleigh East,,1
+Officer,Cardinia,1
+Plumpton,,1
+Preston,Banyule,1
+Princes Hill,,1
+Riddells Creek,Macedon Ranges,1
+Rockbank,Melton,1
+Sandhurst,Frankston,1
+Southbank,Port Phillip,1
+Springvale South,Greater Dandenong,1
+St Helena,,1
+Strathmore Heights,,1
+Tarneit,,1
+The Basin,,1
+Toorak,,1
+Truganina,,1
+Upwey,Yarra Ranges,1
+Wallan,,1
+Waterways,,1
+Waterways,Kingston,1
+Watsonia North,,1
+Whittlesea,Whittlesea,1
+Williams Landing,,1
+Williams Landing,Wyndham,1
+Williamstown North,,1
+Wonga Park,Manningham,1
+Wyndham Vale,,1
+Yallambie,,1
+Yarra Glen,Yarra Ranges,1
