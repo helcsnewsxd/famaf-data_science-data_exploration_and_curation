@@ -28,4 +28,4 @@ Este repositorio contiene el material de la materia Exploración y Curación de 
 | TP | Enunciado | Desarrollo Personal | Entrega Grupal |
 |----|-----------|-------|---------|
 | 1 | [SQL + Pandas + ETL](/evaluación/entregable1/original.ipynb) | [Listo (sin *Airflow*)](./evaluación/entregable1/personal.ipynb) | [Completo (mío + Juan)](./evaluación/entregable1/grupal.ipynb) |
-| 2 | [Encodings + PCA + Transformaciones](./evaluación/entregable2/original.ipynb) | [Completo](./evaluación/entregable2/personal.ipynb) con la [documentación](./evaluación/entregable2/personal_reporte.md) | . |
+| 2 | [Encodings + PCA + Transformaciones](./evaluación/entregable2/original.ipynb) | [Completo](./evaluación/entregable2/personal.ipynb) con la [documentación](./evaluación/entregable2/personal_reporte.md) | [Completo (mío)](./evaluación/entregable2/personal.ipynb) y la [documentación](./evaluación/entregable2/personal_reporte.md) |
